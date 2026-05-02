@@ -63,6 +63,10 @@ It uses structured prompts to keep that flow consistent.
 * Suggests likely causes
 * Gives simple next steps
 
+## Sample Output
+
+See `outputs/ticket_examples.md` for real examples of how the assistant responds to user issues.
+
 ---
 
 ## What I took away
@@ -96,3 +100,4 @@ There’s still a lot to build on:
 In real IT support, time gets wasted when the issue isn’t clear.
 
 This kind of approach helps reduce back-and-forth and makes troubleshooting more direct.
+
