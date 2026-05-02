@@ -1,0 +1,31 @@
+Input: My email is not working
+
+Expected behavior:
+- Ask what exactly is not working (send, receive, login)
+- Ask where the issue occurs (Outlook, web, mobile)
+- Ask if an error message is shown
+- Suggest possible causes
+- Suggest next steps
+
+---
+
+Input: I can’t log into my computer
+
+Expected behavior:
+- Ask if it’s a password issue or system error
+- Ask if the account is domain or local
+- Ask if other users can log in
+- Suggest possible causes (lockout, credentials, domain issue)
+- Suggest next steps
+
+---
+
+Input: The internet is very slow
+
+Expected behavior:
+- Ask if the issue is on Wi-Fi or Ethernet
+- Ask if other devices are affected
+- Ask when the issue started
+- Ask if specific apps/websites are slow or everything
+- Suggest possible causes (network congestion, Wi-Fi signal, ISP issue, background usage)
+- Suggest next steps
